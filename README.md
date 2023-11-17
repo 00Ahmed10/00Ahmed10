@@ -1,4 +1,4 @@
-Hello! I'm Ahmed Reda, an AI student at the Menfia Faculty of AI. Passionate about the world of artificial intelligence, I'm constantly exploring and learning. This GitHub repository is a space where I share my projects, experiments, and insights. Feel free to explore and collaborate. Let's connect and delve into the exciting realm of AI together! 🚀
+Hello! I'm Ahmed Reda, an AI student at the Menofia Faculty of AI. Passionate about the world of artificial intelligence, I'm constantly exploring and learning. This GitHub repository is a space where I share my projects, experiments, and insights. Feel free to explore and collaborate. Let's connect and delve into the exciting realm of AI together! 🚀
 
 For more details, check out my [LinkedIn profile](https://www.linkedin.com/in/ahmed-reda-239158247/) and [personal website](#Not Yet). Don't hesitate to reach out—I'm always up for engaging discussions and collaborative opportunities. Happy coding! 👨‍💻✨
 <!--
